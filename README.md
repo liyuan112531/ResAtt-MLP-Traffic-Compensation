@@ -6,7 +6,7 @@ Official implementation of the TR-C paper **"Predicting Traffic Accident Compens
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.11+-red.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-This repository predicts the court support rate for traffic-accident compensation claims using a **Residual Attention Multi-Layer Perceptron (ResAtt-MLP)** trained on 59 leakage-free tabular features derived from 1,942 Beijing traffic-accident judgments (2022–2023).
+This repository predicts the court support rate for traffic-accident compensation claims using a **Residual Attention Multi-Layer Perceptron (ResAtt-MLP)** trained on 59 leakage-free tabular features derived from 1,942 Beijing traffic-accident judgments (2022–2025).
 
 ## Abstract
 
