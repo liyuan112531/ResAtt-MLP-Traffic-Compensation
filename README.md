@@ -61,7 +61,7 @@ The original dataset contains court judgment records with personally identifiabl
 ## Installation
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/liyuan112531/ResAtt-MLP-Traffic-Compensation.git
 cd ResAtt-MLP-Release
 pip install -r requirements.txt
 ```
@@ -132,10 +132,9 @@ If you find this work useful, please cite:
 ```bibtex
 @article{resattmlp2025,
   title     = {Predicting Traffic Accident Compensation Support Rates Using a Residual Attention Multi-Layer Perceptron},
-  author    = {Your Name and Coauthors},
+  author    = {Gu, Liyuan and Miao, Mingyue and Huang, Lihua and Zhao, Fangxia},
   journal   = {Transportation Research Part C: Emerging Technologies},
-  year      = {2025},
-  doi       = {https://doi.org/your-doi},
+  year      = {2026},
 }
 ```
 
