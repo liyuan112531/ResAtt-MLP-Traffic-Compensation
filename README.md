@@ -133,7 +133,6 @@ If you find this work useful, please cite:
 @article{resattmlp2025,
   title     = {Predicting Traffic Accident Compensation Support Rates Using a Residual Attention Multi-Layer Perceptron},
   author    = {Gu, Liyuan and Miao, Mingyue and Huang, Lihua and Zhao, Fangxia},
-  journal   = {Transportation Research Part C: Emerging Technologies},
   year      = {2026},
 }
 ```
